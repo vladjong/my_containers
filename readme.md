@@ -2,9 +2,9 @@
 # MY_CONTAINERS
 ### Implementation of the standard container library STL
 
-### List
+#### This is a team project, I implemented `vector`, `map`, `set` and `multiset`
 
-This is a team project, I implemented `vector`, `map`, `set` and `multiset`
+### List
 
 <details>
   <summary>General information</summary>
